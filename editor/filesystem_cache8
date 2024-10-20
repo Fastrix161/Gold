@@ -1,6 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1729395868
-export_presets.cfg::TextFile::-1::1729394779::0::1::::<><>::
+::res://::1729420731
+export_presets.cfg::TextFile::-1::1729399131::0::1::::<><>::
 icon.svg::CompressedTexture2D::3029718665865244093::1729315512::1729315524::1::::<><>::
 ::res://assets/::1729376222
 knight.png::CompressedTexture2D::6145561726618372489::1729346460::1729346783::1::::<><>::
@@ -58,12 +58,16 @@ tilemap_packed.png::CompressedTexture2D::6740235786853437960::1729346705::172934
 ::res://assets/Tilesheets/Small tiles/Thin outline/::1729346783
 tilemap.png::CompressedTexture2D::8416425761063909061::1729346705::1729346783::1::::<><>::
 tilemap_packed.png::CompressedTexture2D::893659699765721321::1729346705::1729346783::1::::<><>::
-::res://scenes/::1729394873
-coin.tscn::PackedScene::7505594609035335418::1729394873::0::1::::<><>::uid://8lkwl2bevvf5::::res://assets/brackeys/coin.png<>res://script/coin.gd
-game.tscn::PackedScene::3702310752728784427::1729394873::0::1::::<><>::res://script/GameManager.gd<>uid://byp1poxlpxfbi::::res://scenes/player.tscn<>uid://de61bt5y76ad3::::res://scenes/coin.tscn<>uid://r44nocuaqh1q::::res://assets/brackeys/world_tileset.png<>uid://bs8scslkuqn81::::res://scenes/Platform1.tscn<>uid://5kuo33f2raau::::res://scenes/killzone.tscn<>uid://dw20a6guwb3jh::::res://assets/background/background_layer_1.png<>uid://b0hvx0yrm0yb5::::res://assets/fonts/PixelOperator8.ttf<>uid://bidvy0cl5fqc7::::res://assets/fonts/PixelOperator8-Bold.ttf
-killzone.tscn::PackedScene::2127549941823821164::1729394873::0::1::::<><>::res://script/killzone.gd
-Platform1.tscn::PackedScene::3719041775414139888::1729394873::0::1::::<><>::uid://bkixou3c6yahh::::res://assets/brackeys/platforms.png
-player.tscn::PackedScene::4103524797415424518::1729394873::0::1::::<><>::uid://nso2qkn5ere5::::res://assets/character/char_blue.png<>res://script/player.gd
+::res://docs/::1729400399
+index.apple-touch-icon.png::CompressedTexture2D::2646111944288154216::1729399131::1729400399::1::::<><>::
+index.icon.png::CompressedTexture2D::6754118835239489904::1729399131::1729400399::1::::<><>::
+index.png::CompressedTexture2D::4778828622888746933::1729399130::1729400399::1::::<><>::
+::res://scenes/::1729399178
+coin.tscn::PackedScene::7505594609035335418::1729399178::0::1::::<><>::uid://8lkwl2bevvf5::::res://assets/brackeys/coin.png<>res://script/coin.gd
+game.tscn::PackedScene::3702310752728784427::1729399178::0::1::::<><>::res://script/GameManager.gd<>uid://byp1poxlpxfbi::::res://scenes/player.tscn<>uid://de61bt5y76ad3::::res://scenes/coin.tscn<>uid://r44nocuaqh1q::::res://assets/brackeys/world_tileset.png<>uid://bs8scslkuqn81::::res://scenes/Platform1.tscn<>uid://5kuo33f2raau::::res://scenes/killzone.tscn<>uid://dw20a6guwb3jh::::res://assets/background/background_layer_1.png<>uid://b0hvx0yrm0yb5::::res://assets/fonts/PixelOperator8.ttf<>uid://bidvy0cl5fqc7::::res://assets/fonts/PixelOperator8-Bold.ttf
+killzone.tscn::PackedScene::2127549941823821164::1729399178::0::1::::<><>::res://script/killzone.gd
+Platform1.tscn::PackedScene::3719041775414139888::1729399178::0::1::::<><>::uid://bkixou3c6yahh::::res://assets/brackeys/platforms.png
+player.tscn::PackedScene::4103524797415424518::1729399178::0::1::::<><>::uid://nso2qkn5ere5::::res://assets/character/char_blue.png<>res://script/player.gd
 ::res://script/::1729394208
 coin.gd::GDScript::-1::1729393870::0::1::::<>Area2D<>::
 GameManager.gd::GDScript::-1::1729394208::0::1::::<>Node<>::
