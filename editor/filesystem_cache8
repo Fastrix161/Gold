@@ -1,0 +1,71 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1729395868
+export_presets.cfg::TextFile::-1::1729394779::0::1::::<><>::
+icon.svg::CompressedTexture2D::3029718665865244093::1729315512::1729315524::1::::<><>::
+::res://assets/::1729376222
+knight.png::CompressedTexture2D::6145561726618372489::1729346460::1729346783::1::::<><>::
+oak_woods_tileset.png::CompressedTexture2D::2885370418077435548::1729346292::1729346783::1::::<><>::
+::res://assets/background/::1729376223
+background_layer_1.png::CompressedTexture2D::8760674373725651985::1729346151::1729376223::1::::<><>::
+background_layer_2.png::CompressedTexture2D::1898165141446481908::1729346151::1729346159::1::::<><>::
+background_layer_3.png::CompressedTexture2D::6599301420068529430::1729346151::1729346159::1::::<><>::
+::res://assets/brackeys/::1729367527
+coin.png::CompressedTexture2D::2339587072261500004::1729346460::1729346783::1::::<><>::
+coin.wav::AudioStreamWAV::3928005413470668681::1729346279::1729346783::1::::<><>::
+explosion.wav::AudioStreamWAV::6221340294971862377::1729346279::1729346783::1::::<><>::
+fruit.png::CompressedTexture2D::2755911277590399671::1729346460::1729346783::1::::<><>::
+hurt.wav::AudioStreamWAV::2093299764520106009::1729346279::1729346783::1::::<><>::
+jump.wav::AudioStreamWAV::4323739313248840637::1729346279::1729346783::1::::<><>::
+platforms.png::CompressedTexture2D::3106246727908967653::1729346460::1729346783::1::::<><>::
+power_up.wav::AudioStreamWAV::7866364979335615790::1729346279::1729346783::1::::<><>::
+slime_green.png::CompressedTexture2D::8233783390295018283::1729346460::1729346783::1::::<><>::
+slime_purple.png::CompressedTexture2D::1137698158971486028::1729346460::1729346783::1::::<><>::
+tap.wav::AudioStreamWAV::2976837758800002044::1729346279::1729346783::1::::<><>::
+time_for_adventure.mp3::AudioStreamMP3::5340604506371511536::1729346377::1729346783::1::::<><>::
+world_tileset.png::CompressedTexture2D::1254862044151132320::1729346460::1729346783::1::::<><>::
+::res://assets/character/::1729370001
+char_blue.png::CompressedTexture2D::950512877654233738::1729346151::1729370001::1::::<><>::
+::res://assets/decorations/::1729346159
+fence_1.png::CompressedTexture2D::1859017603760068013::1729346151::1729346159::1::::<><>::
+fence_2.png::CompressedTexture2D::313748875529576806::1729346151::1729346159::1::::<><>::
+grass_1.png::CompressedTexture2D::815158621399822627::1729346151::1729346159::1::::<><>::
+grass_2.png::CompressedTexture2D::3824607113982773893::1729346151::1729346159::1::::<><>::
+grass_3.png::CompressedTexture2D::8827104302268694663::1729346151::1729346159::1::::<><>::
+lamp.png::CompressedTexture2D::2168892692393332099::1729346151::1729346159::1::::<><>::
+rock_1.png::CompressedTexture2D::9098399132380166179::1729346151::1729346159::1::::<><>::
+rock_2.png::CompressedTexture2D::9194275357922504473::1729346151::1729346159::1::::<><>::
+rock_3.png::CompressedTexture2D::3587338677345189331::1729346151::1729346159::1::::<><>::
+shop.png::CompressedTexture2D::8109429799670259138::1729346151::1729346159::1::::<><>::
+shop_anim.png::CompressedTexture2D::1844204289385879012::1729346151::1729346159::1::::<><>::
+sign.png::CompressedTexture2D::5178327916824538777::1729346151::1729346159::1::::<><>::
+::res://assets/fonts/::1729346783
+PixelOperator8-Bold.ttf::FontFile::2955443798674809996::1729346533::1729346783::1::::<><>::
+PixelOperator8.ttf::FontFile::4156909899978745672::1729346533::1729346783::1::::<><>::
+::res://assets/Tilesheets/::1729346705
+::res://assets/Tilesheets/Large tiles/::1729346705
+Tilesheet.txt::TextFile::-1::1729346705::0::1::::<><>::
+::res://assets/Tilesheets/Large tiles/Thick outline/::1729346783
+tilemap.png::CompressedTexture2D::6161746489163377646::1729346705::1729346783::1::::<><>::
+tilemap_packed.png::CompressedTexture2D::8402518011534676905::1729346705::1729346783::1::::<><>::
+::res://assets/Tilesheets/Large tiles/Thin outline/::1729346783
+tilemap.png::CompressedTexture2D::8975895010930834596::1729346705::1729346783::1::::<><>::
+tilemap_packed.png::CompressedTexture2D::3490589667075703060::1729346705::1729346783::1::::<><>::
+::res://assets/Tilesheets/Small tiles/::1729346705
+Tilesheet.txt::TextFile::-1::1729346705::0::1::::<><>::
+::res://assets/Tilesheets/Small tiles/Thick outline/::1729346783
+tilemap.png::CompressedTexture2D::5849144905140638154::1729346705::1729346783::1::::<><>::
+tilemap_packed.png::CompressedTexture2D::6740235786853437960::1729346705::1729346783::1::::<><>::
+::res://assets/Tilesheets/Small tiles/Thin outline/::1729346783
+tilemap.png::CompressedTexture2D::8416425761063909061::1729346705::1729346783::1::::<><>::
+tilemap_packed.png::CompressedTexture2D::893659699765721321::1729346705::1729346783::1::::<><>::
+::res://scenes/::1729394873
+coin.tscn::PackedScene::7505594609035335418::1729394873::0::1::::<><>::uid://8lkwl2bevvf5::::res://assets/brackeys/coin.png<>res://script/coin.gd
+game.tscn::PackedScene::3702310752728784427::1729394873::0::1::::<><>::res://script/GameManager.gd<>uid://byp1poxlpxfbi::::res://scenes/player.tscn<>uid://de61bt5y76ad3::::res://scenes/coin.tscn<>uid://r44nocuaqh1q::::res://assets/brackeys/world_tileset.png<>uid://bs8scslkuqn81::::res://scenes/Platform1.tscn<>uid://5kuo33f2raau::::res://scenes/killzone.tscn<>uid://dw20a6guwb3jh::::res://assets/background/background_layer_1.png<>uid://b0hvx0yrm0yb5::::res://assets/fonts/PixelOperator8.ttf<>uid://bidvy0cl5fqc7::::res://assets/fonts/PixelOperator8-Bold.ttf
+killzone.tscn::PackedScene::2127549941823821164::1729394873::0::1::::<><>::res://script/killzone.gd
+Platform1.tscn::PackedScene::3719041775414139888::1729394873::0::1::::<><>::uid://bkixou3c6yahh::::res://assets/brackeys/platforms.png
+player.tscn::PackedScene::4103524797415424518::1729394873::0::1::::<><>::uid://nso2qkn5ere5::::res://assets/character/char_blue.png<>res://script/player.gd
+::res://script/::1729394208
+coin.gd::GDScript::-1::1729393870::0::1::::<>Area2D<>::
+GameManager.gd::GDScript::-1::1729394208::0::1::::<>Node<>::
+killzone.gd::GDScript::-1::1729393239::0::1::::<>Area2D<>::
+player.gd::GDScript::-1::1729392258::0::1::::<>CharacterBody2D<>::

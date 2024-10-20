@@ -1,0 +1,14 @@
+Label
+Node
+Sprite2D
+ParallaxLayer
+ParallaxBackground
+CollisionShape2D
+Timer
+Area2D
+AnimatedSprite2D
+Parallax2D
+TileMapLayer
+AnimationPlayer
+AnimatableBody2D
+TileMap
